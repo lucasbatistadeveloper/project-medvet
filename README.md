@@ -1,2 +1,3 @@
 # project-medvet
-Application using python, tkinter and sql to simulate a system for a veterinary clinic
+ 
+I will upgrade the system during the week
